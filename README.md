@@ -1,6 +1,6 @@
 # PetFriends_Tests
 
-Учебный проект SkillFactory по написанию автотестов
+Учебный проект SkillFactory по написанию тестов REST API
 
 в папке /tests содержатся сами тесты, а также /image с изображением
 
